@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+ffmpeg/
+*.mp4
+*.m4a
+.venv/
+venv/
